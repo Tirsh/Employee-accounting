@@ -1,1 +1,2 @@
-# Pet project Employee-accounting
+# Employee-accounting
+Pet CRUD application to train basic Reactjs skils
